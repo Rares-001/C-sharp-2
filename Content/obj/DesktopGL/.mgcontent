@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/avikj/source/repos/DevQuickie/Project002-TopDownShooter/Content/arena.png</File>
+    <File>C:/Users/avikj/source/repos/DevQuickie/Project002-TopDownShooter/Content/bullet.png</File>
+    <File>C:/Users/avikj/source/repos/DevQuickie/Project002-TopDownShooter/Content/exp.png</File>
+    <File>C:/Users/avikj/source/repos/DevQuickie/Project002-TopDownShooter/Content/font.spritefont</File>
+    <File>C:/Users/avikj/source/repos/DevQuickie/Project002-TopDownShooter/Content/obstacle.png</File>
+    <File>C:/Users/avikj/source/repos/DevQuickie/Project002-TopDownShooter/Content/player.png</File>
+    <File>C:/Users/avikj/source/repos/DevQuickie/Project002-TopDownShooter/Content/redpixel.png</File>
+    <File>C:/Users/avikj/source/repos/DevQuickie/Project002-TopDownShooter/Content/tile1.png</File>
+    <File>C:/Users/avikj/source/repos/DevQuickie/Project002-TopDownShooter/Content/tile2.png</File>
+    <File>C:/Users/avikj/source/repos/DevQuickie/Project002-TopDownShooter/Content/tile3.png</File>
+    <File>C:/Users/avikj/source/repos/DevQuickie/Project002-TopDownShooter/Content/tile4.png</File>
+    <File>C:/Users/avikj/source/repos/DevQuickie/Project002-TopDownShooter/Content/tile5.png</File>
+    <File>C:/Users/avikj/source/repos/DevQuickie/Project002-TopDownShooter/Content/zombie.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
