@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cxrvzDoJBHPBlL8GmBgsbAIRulcyXLu8W3Pnr7Dt5rn/xgWxhQ/O8BNVUEYqiWhCuFRBmMUVe+/Wi2u316m4IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rares\\Downloads\\DevQuickie\\DevQuickie\\Project002-TopDownShooter\\Project002.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rares\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Rares\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

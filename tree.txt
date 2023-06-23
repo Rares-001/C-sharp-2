@@ -1,0 +1,139 @@
+|-- Project002-TopDownShooter/
+.editorconfig
+app.manifest
+Game1.cs
+Globals.cs
+Icon.bmp
+Icon.ico
+main.py
+Program.cs
+Project002.csproj
+Usings.cs
+|-- .config/
+|   dotnet-tools.json
+|-- bin/
+|   |-- Debug/
+|   |   |-- net7.0/
+|   |   |   MonoGame.Framework.dll
+|   |   |   Project002.deps.json
+|   |   |   Project002.dll
+|   |   |   Project002.exe
+|   |   |   Project002.pdb
+|   |   |   Project002.runtimeconfig.json
+|   |   |   |-- Content/
+|   |   |   |   bullet.xnb
+|   |   |   |   exp.xnb
+|   |   |   |   font.xnb
+|   |   |   |   player.xnb
+|   |   |   |   tile1.xnb
+|   |   |   |   tile2.xnb
+|   |   |   |   tile3.xnb
+|   |   |   |   tile4.xnb
+|   |   |   |   tile5.xnb
+|   |   |   |   zombie.xnb
+|   |   |   |-- runtimes/
+|   |   |   |   |-- linux-x64/
+|   |   |   |   |   |-- native/
+|   |   |   |   |   |   libopenal.so.1
+|   |   |   |   |   |   libSDL2-2.0.so.0
+|   |   |   |   |-- osx/
+|   |   |   |   |   |-- native/
+|   |   |   |   |   |   libopenal.1.dylib
+|   |   |   |   |   |   libSDL2.dylib
+|   |   |   |   |-- win-x64/
+|   |   |   |   |   |-- native/
+|   |   |   |   |   |   SDL2.dll
+|   |   |   |   |   |   soft_oal.dll
+|   |   |   |   |-- win-x86/
+|   |   |   |   |   |-- native/
+|   |   |   |   |   |   SDL2.dll
+|   |   |   |   |   |   soft_oal.dll
+|-- Content/
+|   bullet.png
+|   Content.mgcb
+|   exp.png
+|   font.spritefont
+|   player.png
+|   tile1.png
+|   tile2.png
+|   tile3.png
+|   tile4.png
+|   tile5.png
+|   zombie.png
+|   |-- bin/
+|   |   |-- DesktopGL/
+|   |   |   |-- Content/
+|   |   |   |   bullet.xnb
+|   |   |   |   exp.xnb
+|   |   |   |   font.xnb
+|   |   |   |   player.xnb
+|   |   |   |   tile1.xnb
+|   |   |   |   tile2.xnb
+|   |   |   |   tile3.xnb
+|   |   |   |   tile4.xnb
+|   |   |   |   tile5.xnb
+|   |   |   |   zombie.xnb
+|   |-- obj/
+|   |   |-- DesktopGL/
+|   |   |   |-- net7.0/
+|   |   |   |   |-- Content/
+|   |   |   |   |   .mgcontent
+|   |   |   |   |   .mgstats
+|   |   |   |   |   bullet.mgcontent
+|   |   |   |   |   exp.mgcontent
+|   |   |   |   |   font.mgcontent
+|   |   |   |   |   player.mgcontent
+|   |   |   |   |   tile1.mgcontent
+|   |   |   |   |   tile2.mgcontent
+|   |   |   |   |   tile3.mgcontent
+|   |   |   |   |   tile4.mgcontent
+|   |   |   |   |   tile5.mgcontent
+|   |   |   |   |   zombie.mgcontent
+|-- obj/
+|   project.assets.json
+|   project.nuget.cache
+|   Project002.csproj.nuget.dgspec.json
+|   Project002.csproj.nuget.g.props
+|   Project002.csproj.nuget.g.targets
+|   |-- Debug/
+|   |   |-- net7.0/
+|   |   |   .NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+|   |   |   apphost.exe
+|   |   |   Project002.AssemblyInfo.cs
+|   |   |   Project002.AssemblyInfoInputs.cache
+|   |   |   Project002.assets.cache
+|   |   |   Project002.csproj.AssemblyReference.cache
+|   |   |   Project002.csproj.BuildWithSkipAnalyzers
+|   |   |   Project002.csproj.CopyComplete
+|   |   |   Project002.csproj.CoreCompileInputs.cache
+|   |   |   Project002.csproj.FileListAbsolute.txt
+|   |   |   Project002.dll
+|   |   |   Project002.GeneratedMSBuildEditorConfig.editorconfig
+|   |   |   Project002.genruntimeconfig.cache
+|   |   |   Project002.GlobalUsings.g.cs
+|   |   |   Project002.pdb
+|   |   |   |-- ref/
+|   |   |   |   Project002.dll
+|   |   |   |-- refint/
+|   |   |   |   Project002.dll
+|-- _Managers/
+|   ExperienceManager.cs
+|   GameManager.cs
+|   InputManager.cs
+|   ProjectileManager.cs
+|   UIManager.cs
+|   ZombieManager.cs
+|-- _Models/
+|   Background.cs
+|   Experience.cs
+|   Player.cs
+|   Zombie.cs
+|   |-- Base/
+|   |   MovingSprite.cs
+|   |   Sprite.cs
+|   |-- Weapons/
+|   |   MachineGun.cs
+|   |   Projectile.cs
+|   |   ProjectileData.cs
+|   |   Shotgun.cs
+|   |   Weapon.cs
